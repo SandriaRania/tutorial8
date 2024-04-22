@@ -42,3 +42,16 @@ pun bisa mengirim pesan satu-satu sehingga setelah 22:27:20, grafik menurun.
 
 <img src="images/Screenshot (370).png">
 
+5. Edit your subscriber readme.md, put your capture in the readme.md, and also add some
+explanation/reflection of why it is like that. Take a look at the code of publisher and subscriber,
+do you see something to improve?
+Saya melihat bahwa subscriber pertama menerima Amir(1) dan Dira(4), subscriber kedua Cica(3), dan subscriber ketiga menerima
+Budi (2) dan Emir(5). Dari observasi ini saya mengetahui bahwa ternyata kecepatan meningkat karena pesan terbagi menuju tiga 
+consumer sehingga ratenya juga meningkat. Hal ini terlihat di grafik. Mengenai kode yang dicontohkan sebenarnya konsepnya 
+sudah cukup simpel, namun mungkin bisa ditambah dan dilengkapi dengan kasus jika error dan prevensinya, seperti jika gagal 
+terkoneksi karena masalah di url yang tidak sama atau semacamnya. Bisa juga dilengkapi fungsi agar bisa menambah lebih dari 
+lima messages per thread, mungkin dengan loop atau semacamnya.
+
+<img src="images/Screenshot (371).png">
+<img src="images/Screenshot (372).png">
+<img src="images/Screenshot (374).png">

@@ -21,3 +21,12 @@ RabbitMQ yang sama agar bisa terhubung dan berkomunikasi.
 <img src="images/Screenshot (366).png">
 <img src="images/Screenshot (367).png">
 <img src="images/Screenshot (368).png">
+
+3. Edit your publisher readme.md again, capture your browser, and explain how the spike got to do
+   with running the publisher. Put it on readme.md.
+Tanjakan pada grafik adalah tanjakan pada pengukuran Customer ack, yang menurut definisi RabbitMQ adalah kecepatan di mana
+pesan diterima oleh consumers. Dalam kasus ini, grafik menanjak ketika publisher cargo run karena mengirim kima pesan yang telah 
+disebutkan sebelumnya, tanjakan itu terjadi ketika subscriber(consumer) menerima pesan dan akan menanjak lagi jika publisher
+di cargo run lagi.
+
+<img src="images/Screenshot (369).png">

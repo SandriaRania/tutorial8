@@ -19,3 +19,5 @@ Jika url publisher dan subscriber sama, maka itu berarti mereka menggunakan kone
 RabbitMQ yang sama agar bisa terhubung dan berkomunikasi.
 
 <img src="images/Screenshot (366).png">
+<img src="images/Screenshot (367).png">
+<img src="images/Screenshot (368).png">

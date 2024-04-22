@@ -23,7 +23,7 @@ UserCreatedHandler {
 
         // thread::sleep(ten_millis);
 
-        println!("In 2206025363’s Computer [129500004y]. Message
+        println!("In Rania’s Computer [2206025363]. Message
 received: {:?}", message);
         Ok(())
     }

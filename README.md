@@ -17,3 +17,5 @@ Lima messages, masing-masing berisi npm saya, 2206025363, lalu nama Amir, Budi, 
 program, what does it mean?
 Jika url publisher dan subscriber sama, maka itu berarti mereka menggunakan koneksi yang sama. Mereka menggunakan server AMQP
 RabbitMQ yang sama agar bisa terhubung dan berkomunikasi.
+
+<img src="images/Screenshot (366).png">
